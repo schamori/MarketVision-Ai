@@ -9,36 +9,7 @@ MarketVision AI is an advanced platform designed to analyze and forecast market 
 - **Data Visualization**: Generate interactive charts and dashboards for better insights.
 - **Customizable Models**: Easily adapt and train models for specific use cases.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/schamori/MarketVision-Ai.git
-Navigate to the project directory:
-bash
-Code kopieren
-cd MarketVision-Ai
-Install the required dependencies:
-bash
-Code kopieren
-pip install -r requirements.txt
-Usage
-Prepare your dataset and save it in the data/ directory.
-Run the data preprocessing script:
-bash
-Code kopieren
-python preprocess.py
-Train the predictive model:
-bash
-Code kopieren
-python train_model.py
-Visualize market insights:
-bash
-Code kopieren
-python visualize.py
-Project Structure
-bash
-Code kopieren
 MarketVision-Ai/
 ├── data/                 # Directory for datasets
 ├── models/               # Pre-trained and saved models
