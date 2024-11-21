@@ -7,17 +7,7 @@ MarketVision AI is an advanced platform designed to analyze and forecast market 
 - **Market Analysis**: Analyze historical market data to identify trends and patterns.
 - **Predictive Modeling**: Leverage machine learning algorithms to forecast future market movements.
 - **Data Visualization**: Generate interactive charts and dashboards for better insights.
-- **Customizable Models**: Easily adapt and train models for specific use cases.
+- **Live Testing**: Allows you to test in real-time and even connect your broker
 
 
-MarketVision-Ai/
-├── data/                 # Directory for datasets
-├── models/               # Pre-trained and saved models
-├── notebooks/            # Jupyter notebooks for exploration
-├── src/                  # Source code for core functionality
-│   ├── preprocessing/    # Data preprocessing scripts
-│   ├── training/         # Model training scripts
-│   ├── visualization/    # Visualization scripts
-├── tests/                # Unit and integration tests
-├── requirements.txt      # Python dependencies
-├── README.md             # Project documentation
+
