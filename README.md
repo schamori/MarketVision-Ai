@@ -9,6 +9,7 @@ MarketVision AI is an advanced platform designed to analyze and forecast market 
 - **Data Visualization**: Generate interactive charts and dashboards for better insights.
 - **Live Testing**: Allows you to test in real-time and even connect your broker
 - File Structure
+## File Structure
 - commons/: Shared utilities and common functionalities.
 - dqn/: Implementation of Deep Q-Networks.
 - models/: Pretrained and trainable models for market prediction.
